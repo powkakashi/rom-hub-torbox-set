@@ -11,7 +11,13 @@ importer = "torbox_set.importer:Importer"
 
 [permissions]
 # The API mints a download link; the bytes then come from the CDN it names.
-network = ["api.torbox.app", "*.tb-cdn.io", "*.tb-cdn.store", "*.tb-cdn.net"]
+network = [
+  "api.torbox.app",
+  # the CDN the download link points at
+  "*.tb-cdn.io", "*.tb-cdn.store", "*.tb-cdn.net",
+  # the pinned file map ([[data_assets]] sets), hosted as a raw file
+  "raw.githubusercontent.com",
+]
 romm_api = []
 
 [config]
