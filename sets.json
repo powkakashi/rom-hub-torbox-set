@@ -27,12 +27,6 @@
      "id": 5,
      "size": 8015799,
      "title": "The Legend of Zelda - The Minish Cap"
-    },
-    {
-     "file": "VisualBoyAdvance-1.8.0-beta3.zip",
-     "id": 6,
-     "size": 659797,
-     "title": "VisualBoyAdvance-1.8.0-beta3"
     }
    ],
    "state": "completed",
@@ -92,12 +86,6 @@
   "nes": {
    "files": [
     {
-     "file": "virtuanes093e.zip",
-     "id": 11,
-     "size": 386496,
-     "title": "virtuanes093e"
-    },
-    {
      "file": "Zelda 1.zip",
      "id": 16,
      "size": 65552,
@@ -121,12 +109,6 @@
      "id": 18,
      "size": 706998,
      "title": "The Legend of Zelda - A Link to the Past (E)"
-    },
-    {
-     "file": "zsnesw151.zip",
-     "id": 12,
-     "size": 867785,
-     "title": "zsnesw151"
     }
    ],
    "state": "completed",

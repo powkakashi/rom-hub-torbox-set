@@ -68,6 +68,11 @@ def main() -> int:
             name = f.get("name") or ""
             if not name.lower().endswith(ROM_EXT):
                 continue
+            # Emulators shipped inside a grab-bag are not ROMs.
+            if re.search(r"(^|/)emulators?/", name, re.I) or re.search(
+                    r"(visualboyadvance|zsnes|virtuanes|snes9x|nestopia|project64|"
+                    r"dolphin|pcsx|epsxe|mupen|retroarch)", os.path.basename(name), re.I):
+                continue
             slug = slug_for(name)
             if not slug:
                 continue
