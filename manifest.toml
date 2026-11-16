@@ -1,0 +1,31 @@
+[plugin]
+slug        = "torbox-set"
+name        = "TorBox sets"
+version     = "0.1.0"
+rpp_version = "1"
+license     = "MIT"
+
+[capabilities]
+search   = "torbox_set.search:Search"
+importer = "torbox_set.importer:Importer"
+
+[permissions]
+# The API mints a download link; the bytes then come from the CDN it names.
+network = ["api.torbox.app", "*.tb-cdn.io", "*.tb-cdn.store", "*.tb-cdn.net"]
+romm_api = []
+
+[config]
+# TorBox API token. Used only in the `token=` query of requestdl, because the
+# Hub's ctx.http has no way to send an Authorization header.
+api_key = { type = "secret" }
+max_rows = { type = "int", default = 20 }
+
+# [[data_assets]] is the only honest way to know what is inside a torrent: the
+# Hub's ctx.http cannot send `Authorization: Bearer`, and TorBox's mylist
+# refuses a token in the query (measured: token/apikey/api_key/key all 401,
+# Bearer 200). So the file list is generated out of band and pinned here.
+[[data_assets]]
+name       = "sets"
+url        = "https://raw.githubusercontent.com/powkakashi/rom-hub-torbox-set/main/sets.json"
+sha256     = "4f987c071c9ca84d04c813576a511918266c36e6d63c1ff0eacbc7094f1e1c5b"
+size_bytes = 12539

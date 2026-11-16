@@ -1,0 +1,486 @@
+{
+ "generated": "2026-11-17",
+ "source": "torbox mylist",
+ "platforms": {
+  "turbografx-cd": {
+   "torrent_id": 124376124,
+   "torrent": "Minerva_Myrient",
+   "files": [
+    {
+     "id": 64,
+     "title": "Advanced V.G. (Japan)",
+     "file": "Advanced V.G. (Japan).chd",
+     "size": 229383716
+    },
+    {
+     "id": 73,
+     "title": "Ai Chou Aniki (Japan) (SADS, SAES)",
+     "file": "Ai Chou Aniki (Japan) (SADS, SAES).chd",
+     "size": 361401037
+    },
+    {
+     "id": 76,
+     "title": "Akumajou Dracula X - Chi no Rondo (Japan)",
+     "file": "Akumajou Dracula X - Chi no Rondo (Japan).chd",
+     "size": 282622441
+    },
+    {
+     "id": 24,
+     "title": "Ane-san (Japan)",
+     "file": "Ane-san (Japan).chd",
+     "size": 409214190
+    },
+    {
+     "id": 68,
+     "title": "Battle Shanghai - Dragon's Eye ~ Shanghai III - Dragon's Eye (Japan)",
+     "file": "Battle Shanghai - Dragon's Eye ~ Shanghai III - Dragon's Eye (Japan).chd",
+     "size": 192660737
+    },
+    {
+     "id": 72,
+     "title": "Bazar de Gozarre no Game de Gozarre (Japan)",
+     "file": "Bazar de Gozarre no Game de Gozarre (Japan).chd",
+     "size": 167171903
+    },
+    {
+     "id": 32,
+     "title": "Beyond Shadowgate (USA)",
+     "file": "Beyond Shadowgate (USA).chd",
+     "size": 186361381
+    },
+    {
+     "id": 6,
+     "title": "Bishoujo Senshi Sailor Moon (Japan)",
+     "file": "Bishoujo Senshi Sailor Moon (Japan).chd",
+     "size": 273809968
+    },
+    {
+     "id": 38,
+     "title": "Bishoujo Senshi Sailor Moon (Japan) (En) (v1.1)",
+     "file": "Bishoujo Senshi Sailor Moon (Japan) (En) (v1.1).chd",
+     "size": 211927826
+    },
+    {
+     "id": 42,
+     "title": "Brandish (Japan)",
+     "file": "Brandish (Japan).chd",
+     "size": 219763514
+    },
+    {
+     "id": 26,
+     "title": "Buster Bros. (USA)",
+     "file": "Buster Bros. (USA).chd",
+     "size": 135636989
+    },
+    {
+     "id": 4,
+     "title": "Chou Aniki (Japan) (FAAT, FACT)",
+     "file": "Chou Aniki (Japan) (FAAT, FACT).chd",
+     "size": 167757829
+    },
+    {
+     "id": 69,
+     "title": "Chou Jikuu Yousai Macross - Eien no Love Song (Japan)",
+     "file": "Chou Jikuu Yousai Macross - Eien no Love Song (Japan).chd",
+     "size": 337169920
+    },
+    {
+     "id": 7,
+     "title": "Chou Jikuu Yousai Macross 2036 (Japan)",
+     "file": "Chou Jikuu Yousai Macross 2036 (Japan).chd",
+     "size": 338606210
+    },
+    {
+     "id": 30,
+     "title": "Cosmic Fantasy - Bouken Shounen Yuu (Japan)",
+     "file": "Cosmic Fantasy - Bouken Shounen Yuu (Japan).chd",
+     "size": 184186143
+    },
+    {
+     "id": 54,
+     "title": "Cosmic Fantasy 2 (USA)",
+     "file": "Cosmic Fantasy 2 (USA).chd",
+     "size": 243022043
+    },
+    {
+     "id": 13,
+     "title": "Dead of the Brain 1 and 2 (Japan) (En) (v1.0e) (Dave Shadoff)",
+     "file": "Dead of the Brain 1 and 2 (Japan) (En) (v1.0e) (Dave Shadoff).chd",
+     "size": 196865200
+    },
+    {
+     "id": 48,
+     "title": "Double Dragon II - The Revenge (Japan)",
+     "file": "Double Dragon II - The Revenge (Japan).chd",
+     "size": 290926853
+    },
+    {
+     "id": 57,
+     "title": "Down Load 2 (Japan)",
+     "file": "Down Load 2 (Japan).chd",
+     "size": 171038070
+    },
+    {
+     "id": 21,
+     "title": "Dragon Knight and Graffiti (Japan)",
+     "file": "Dragon Knight and Graffiti (Japan).chd",
+     "size": 214997784
+    },
+    {
+     "id": 25,
+     "title": "Dragon Knight II (Japan)",
+     "file": "Dragon Knight II (Japan).chd",
+     "size": 334830759
+    },
+    {
+     "id": 74,
+     "title": "Dragon Slayer - The Legend of Heroes (USA)",
+     "file": "Dragon Slayer - The Legend of Heroes (USA).chd",
+     "size": 388206529
+    },
+    {
+     "id": 1,
+     "title": "Dynastic Hero, The (USA)",
+     "file": "Dynastic Hero, The (USA).chd",
+     "size": 314744830
+    },
+    {
+     "id": 9,
+     "title": "Fantastic Night Dreams - Cotton (USA)",
+     "file": "Fantastic Night Dreams - Cotton (USA).chd",
+     "size": 297310621
+    },
+    {
+     "id": 29,
+     "title": "Faussete Amour (Japan)",
+     "file": "Faussete Amour (Japan).chd",
+     "size": 240717372
+    },
+    {
+     "id": 56,
+     "title": "Fighting Street (Japan) (Rev 4)",
+     "file": "Fighting Street (Japan) (Rev 4).chd",
+     "size": 242097825
+    },
+    {
+     "id": 22,
+     "title": "Final Zone II (Japan)",
+     "file": "Final Zone II (Japan).chd",
+     "size": 235155684
+    },
+    {
+     "id": 28,
+     "title": "Gate of Thunder (Japan) (FACT, FADT)",
+     "file": "Gate of Thunder (Japan) (FACT, FADT).chd",
+     "size": 319324762
+    },
+    {
+     "id": 61,
+     "title": "Ginga Fukei Densetsu Sapphire (Japan)",
+     "file": "Ginga Fukei Densetsu Sapphire (Japan).chd",
+     "size": 248141195
+    },
+    {
+     "id": 77,
+     "title": "Ginga Ojousama Densetsu Yuna (Japan) (En) (v1.3) (Supper)",
+     "file": "Ginga Ojousama Densetsu Yuna (Japan) (En) (v1.3) (Supper).chd",
+     "size": 263248582
+    },
+    {
+     "id": 45,
+     "title": "Ginga Ojousama Densetsu Yuna (Japan) (FAAT, FABT, FACT)",
+     "file": "Ginga Ojousama Densetsu Yuna (Japan) (FAAT, FABT, FACT).chd",
+     "size": 263142758
+    },
+    {
+     "id": 20,
+     "title": "Godzilla (USA)",
+     "file": "Godzilla (USA).chd",
+     "size": 218349736
+    },
+    {
+     "id": 36,
+     "title": "Goetzendiener (Japan)",
+     "file": "Goetzendiener (Japan).chd",
+     "size": 67470472
+    },
+    {
+     "id": 55,
+     "title": "Golden Axe (Japan)",
+     "file": "Golden Axe (Japan).chd",
+     "size": 225627701
+    },
+    {
+     "id": 49,
+     "title": "Gradius II - Gofer no Yabou (Japan)",
+     "file": "Gradius II - Gofer no Yabou (Japan).chd",
+     "size": 320881597
+    },
+    {
+     "id": 17,
+     "title": "Hi-Leg Fantasy (Japan) (Unl)",
+     "file": "Hi-Leg Fantasy (Japan) (Unl).chd",
+     "size": 256100401
+    },
+    {
+     "id": 14,
+     "title": "Jessie Jaeger in Cleopatra's Curse (World) (Aftermarket)",
+     "file": "Jessie Jaeger in Cleopatra's Curse (World) (Aftermarket).chd",
+     "size": 226178242
+    },
+    {
+     "id": 27,
+     "title": "Juuouki (Japan) (Rev 5)",
+     "file": "Juuouki (Japan) (Rev 5).chd",
+     "size": 38707460
+    },
+    {
+     "id": 11,
+     "title": "L-Dis (Japan)",
+     "file": "L-Dis (Japan).chd",
+     "size": 321626939
+    },
+    {
+     "id": 12,
+     "title": "Loom (Japan)",
+     "file": "Loom (Japan).chd",
+     "size": 132315932
+    },
+    {
+     "id": 33,
+     "title": "Lords of Thunder (USA)",
+     "file": "Lords of Thunder (USA).chd",
+     "size": 380910031
+    },
+    {
+     "id": 60,
+     "title": "Manhole, The (Japan)",
+     "file": "Manhole, The (Japan).chd",
+     "size": 233338186
+    },
+    {
+     "id": 63,
+     "title": "Might and Magic III - Isles of Terra (USA)",
+     "file": "Might and Magic III - Isles of Terra (USA).chd",
+     "size": 131572488
+    },
+    {
+     "id": 34,
+     "title": "Monster Lair (Subset - Multi)",
+     "file": "Monster Lair (Subset - Multi).chd",
+     "size": 237671894
+    },
+    {
+     "id": 47,
+     "title": "Monster Lair (USA)",
+     "file": "Monster Lair (USA).chd",
+     "size": 237671601
+    },
+    {
+     "id": 3,
+     "title": "Motteke Tamago (Japan) (En) (v1.0) (Dave Shadoff)",
+     "file": "Motteke Tamago (Japan) (En) (v1.0) (Dave Shadoff).chd",
+     "size": 248160768
+    },
+    {
+     "id": 0,
+     "title": "Mugen Senshi Valis - The Legend of a Fantasm Soldier (Japan)",
+     "file": "Mugen Senshi Valis - The Legend of a Fantasm Soldier (Japan).chd",
+     "size": 310674443
+    },
+    {
+     "id": 35,
+     "title": "PopfulMail (Japan)",
+     "file": "PopfulMail (Japan).chd",
+     "size": 288798323
+    },
+    {
+     "id": 18,
+     "title": "Prince of Persia (USA)",
+     "file": "Prince of Persia (USA).chd",
+     "size": 255570288
+    },
+    {
+     "id": 43,
+     "title": "Puyo Puyo CD (Japan)",
+     "file": "Puyo Puyo CD (Japan).chd",
+     "size": 221115969
+    },
+    {
+     "id": 46,
+     "title": "R-Type Complete CD (Japan)",
+     "file": "R-Type Complete CD (Japan).chd",
+     "size": 259532952
+    },
+    {
+     "id": 39,
+     "title": "Revival Chase (USA) (En,Fr) (Aftermarket)",
+     "file": "Revival Chase (USA) (En,Fr) (Aftermarket).chd",
+     "size": 97887065
+    },
+    {
+     "id": 15,
+     "title": "Seirei Senshi Spriggan (Japan)",
+     "file": "Seirei Senshi Spriggan (Japan).chd",
+     "size": 325255901
+    },
+    {
+     "id": 2,
+     "title": "Shadow of the Beast (USA)",
+     "file": "Shadow of the Beast (USA).chd",
+     "size": 287353927
+    },
+    {
+     "id": 66,
+     "title": "Shadow of the Beast - Mashou no Okite (Japan)",
+     "file": "Shadow of the Beast - Mashou no Okite (Japan).chd",
+     "size": 285543228
+    },
+    {
+     "id": 19,
+     "title": "Shanghai II (Japan)",
+     "file": "Shanghai II (Japan).chd",
+     "size": 80275220
+    },
+    {
+     "id": 65,
+     "title": "Shape Shifter (USA)",
+     "file": "Shape Shifter (USA).chd",
+     "size": 331694672
+    },
+    {
+     "id": 31,
+     "title": "Splash Lake - Ostrich Daibouken (Japan)",
+     "file": "Splash Lake - Ostrich Daibouken (Japan).chd",
+     "size": 167553831
+    },
+    {
+     "id": 53,
+     "title": "Star Parodier (Japan)",
+     "file": "Star Parodier (Japan).chd",
+     "size": 377218124
+    },
+    {
+     "id": 67,
+     "title": "Startling Odyssey II - Maryuu Sensou (Japan)",
+     "file": "Startling Odyssey II - Maryuu Sensou (Japan).chd",
+     "size": 356626478
+    },
+    {
+     "id": 50,
+     "title": "Steam-Heart's (Japan)",
+     "file": "Steam-Heart's (Japan).chd",
+     "size": 388642082
+    },
+    {
+     "id": 70,
+     "title": "Summer Carnival '92 - Alzadick (Japan)",
+     "file": "Summer Carnival '92 - Alzadick (Japan).chd",
+     "size": 157815407
+    },
+    {
+     "id": 75,
+     "title": "Summer Carnival '93 - NEXZR Special (Japan)",
+     "file": "Summer Carnival '93 - NEXZR Special (Japan).chd",
+     "size": 298433714
+    },
+    {
+     "id": 52,
+     "title": "Sylphia (Japan)",
+     "file": "Sylphia (Japan).chd",
+     "size": 319687879
+    },
+    {
+     "id": 71,
+     "title": "Tengai Makyou - Ziria (Japan) (Rev 7)",
+     "file": "Tengai Makyou - Ziria (Japan) (Rev 7).chd",
+     "size": 148230865
+    },
+    {
+     "id": 10,
+     "title": "Tengai Makyou - Ziria (Japan) (Rev 7) (En) (v1.0) (LIPEMCO! Translations)",
+     "file": "Tengai Makyou - Ziria (Japan) (Rev 7) (En) (v1.0) (LIPEMCO! Translations).chd",
+     "size": 148324200
+    },
+    {
+     "id": 23,
+     "title": "Tengai Makyou - Ziria (Japan) (Rev 7) (En) (v1.2) (LIPEMCO! Translations)",
+     "file": "Tengai Makyou - Ziria (Japan) (Rev 7) (En) (v1.2) (LIPEMCO! Translations).chd",
+     "size": 148592414
+    },
+    {
+     "id": 51,
+     "title": "Travel Eple (Japan)",
+     "file": "Travel Eple (Japan).chd",
+     "size": 245844772
+    },
+    {
+     "id": 16,
+     "title": "Ultimate Rally Club (USA) (OrionSoft) (Aftermarket)",
+     "file": "Ultimate Rally Club (USA) (OrionSoft) (Aftermarket).chd",
+     "size": 133571610
+    },
+    {
+     "id": 58,
+     "title": "Valis II (USA)",
+     "file": "Valis II (USA).chd",
+     "size": 277456106
+    },
+    {
+     "id": 44,
+     "title": "Valis III (USA)",
+     "file": "Valis III (USA).chd",
+     "size": 244976393
+    },
+    {
+     "id": 40,
+     "title": "Valis IV (Japan)",
+     "file": "Valis IV (Japan).chd",
+     "size": 277751021
+    },
+    {
+     "id": 59,
+     "title": "Vasteel (USA)",
+     "file": "Vasteel (USA).chd",
+     "size": 271467963
+    },
+    {
+     "id": 78,
+     "title": "Xak III - The Eternal Recurrence (Japan) (En) (v1.00) (Xak III De-Japanization)",
+     "file": "Xak III - The Eternal Recurrence (Japan) (En) (v1.00) (Xak III De-Japanization).chd",
+     "size": 257984384
+    },
+    {
+     "id": 37,
+     "title": "Xump 2 - Back To Space (USA) (v1.0) (Retroguru) (Aftermarket)",
+     "file": "Xump 2 - Back To Space (USA) (v1.0) (Retroguru) (Aftermarket).chd",
+     "size": 87513634
+    },
+    {
+     "id": 62,
+     "title": "Ys Book I and II (USA)",
+     "file": "Ys Book I and II (USA).chd",
+     "size": 477155061
+    },
+    {
+     "id": 8,
+     "title": "Ys III - Wanderers from Ys (USA)",
+     "file": "Ys III - Wanderers from Ys (USA).chd",
+     "size": 452213895
+    },
+    {
+     "id": 5,
+     "title": "Ys IV - The Dawn of Ys (Japan) (En) (v0.95) (NightWolve)",
+     "file": "Ys IV - The Dawn of Ys (Japan) (En) (v0.95) (NightWolve).chd",
+     "size": 454891005
+    },
+    {
+     "id": 41,
+     "title": "Ys IV - The Dawn of Ys (Japan) (Rev 3)",
+     "file": "Ys IV - The Dawn of Ys (Japan) (Rev 3).chd",
+     "size": 450319701
+    }
+   ]
+  }
+ }
+}
