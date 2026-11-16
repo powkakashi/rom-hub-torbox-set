@@ -34,4 +34,4 @@ max_rows = { type = "int", default = 20 }
 name       = "sets"
 url        = "https://raw.githubusercontent.com/powkakashi/rom-hub-torbox-set/master/sets.json"
 sha256     = "4f987c071c9ca84d04c813576a511918266c36e6d63c1ff0eacbc7094f1e1c5b"
-size_bytes = 12539
+size_bytes = 15536
